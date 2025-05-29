@@ -1,4 +1,4 @@
-# Trabajo Final de Máster.
+# Proyectos en ciencia de datos.
 
 Este repositorio contiene todos los proyectos de ciencia de datos realizados con Machine Learning y Deep Learning. 
 
