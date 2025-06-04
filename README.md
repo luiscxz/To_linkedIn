@@ -10,6 +10,7 @@ Este repositorio tiene como finalidad recopilar y organizar de manera estructura
 
 - `Outliers.ipynb/` – Cuaderno con explicación sobre el tratamiento de valores atípicos.
 - `Temperatura_Jena_Climate.ipynb` – Notebook de Jupyter correspondiente al proyecto Jena Climate, en el cual se entrena una red neuronal LSTM para la predicción de la temperatura.
+- `Olis_caso_estudio.ipynb` – Notebook de Jupyter correspondiente al caso de estudio correspondiente a una prueba técnica.
 
 
 ## 🧰 Herramientas y Tecnologías
