@@ -32,7 +32,7 @@ def plot_boxplots(df, title='Boxplots por variable', height=300):
     fig.update_layout(
         title=title,
         yaxis_title='Valor',
-        boxmode='group',
+        #boxmode='group',
         template='plotly_white',
         font=dict(family='Arial', size=14),
         margin=dict(l=40, r=40, t=60, b=40),
